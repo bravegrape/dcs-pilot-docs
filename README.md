@@ -9,6 +9,8 @@ The pages are hosted at https://dcs-pilot-docs.cloudapps.digital on the [GOV.UK 
 
 # Getting Started
 
+MUST
+
 To see the version of Ruby used by the application, see [the ruby-version file](.ruby-version).
 
 ## Install Ruby
